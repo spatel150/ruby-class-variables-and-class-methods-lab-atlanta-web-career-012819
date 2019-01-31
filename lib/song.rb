@@ -20,6 +20,6 @@ class Song
   end 
   
   def self.artists
-    artists.uniq{|artist| artists.include? (artist)
+    artists.uniq{|artist| artists.include? (artist)}
   end 
 end 
