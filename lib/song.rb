@@ -18,6 +18,5 @@ class Song
   end 
   
   def self.artists
-    unless @@artists.include?(artists)
   end 
 end 
